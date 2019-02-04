@@ -7,3 +7,6 @@ logs/
 notebooks/
 profiling/
 snapshots/
+.idea
+.DS_Store
+*/.DS_Store
